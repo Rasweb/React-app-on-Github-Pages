@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# React app to Github pages 
 
 Push to github pages with React
+
+#### The app on Github Pages
+https://rasweb.github.io/React-app-on-Github-Pages/
+
+#### The template
+https://{github-name}.github.io/{repo-name}/
+
 
 ### 1. Create a new public repo
 
