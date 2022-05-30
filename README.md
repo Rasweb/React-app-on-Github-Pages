@@ -84,3 +84,7 @@ git commit -m "{commit-message}"
 ```
 git push origin {branch-name}
 ```
+
+
+## Information from this repo
+https://github.com/gitname/react-gh-pages.git
